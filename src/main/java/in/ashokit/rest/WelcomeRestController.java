@@ -38,5 +38,11 @@ public class WelcomeRestController {
 		return msg;
 	}
 	
+
+	//task 321
+	public void m2()
+	{
+       //logic
+	}
 	
 }
