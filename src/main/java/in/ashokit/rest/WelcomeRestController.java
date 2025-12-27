@@ -44,5 +44,11 @@ public class WelcomeRestController {
 	{
        //logic
 	}
+
+
+	public void m3()
+	{
+	   //logic
+	}
 	
 }
